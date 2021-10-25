@@ -1,0 +1,16 @@
+{
+  "ModId": "p4gpc.riseoutfit",
+  "ModName": "Change Rise's Party Assist Outfit",
+  "ModAuthor": "Rirurin, pioziomgames",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Changes the clothing that Rise wears when she appears to assist in battle. Note: Requires the Aemulus part of the mod to work.",
+  "ModDll": "p4gpc.riseoutfit.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/p4gpc.riseoutfit.dll",
+  "ModR2RManagedDll64": "x64/p4gpc.riseoutfit.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "ModDependencies": [ "reloaded.sharedlib.hooks" ],
+  "OptionalDependencies": null,
+  "SupportedAppId": [ "p4g.exe" ]
+}
